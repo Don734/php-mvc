@@ -1,0 +1,18 @@
+{
+    "name": "vipdo/taskm",
+    "authors": [
+        {
+            "name": "Don734",
+            "email": "vip.don4ik@bk.ru"
+        }
+    ],
+    "autoload": {
+        "files": [
+            "app/config/routes.php"
+        ],
+        "classmap": [
+            "app/"
+        ]
+    },
+    "require": {}
+}
